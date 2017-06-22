@@ -179,7 +179,7 @@ if($_POST) {
 		
  
 	<!-- jQuery & JavaScript -->  
-	<script src="./assets/lib/js/jquery-1.11.1.min.js"></script>
+	<script src="./assets/js/jquery-1.11.1.min.js"></script>
 	<script src="./assets/js/jquery.validate.min.js"></script>
 	<script src="./assets/js/form-validation.js"></script> 
 
